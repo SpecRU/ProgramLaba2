@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\ThreadSafeTree.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\Downloads\main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
